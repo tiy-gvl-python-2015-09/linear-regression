@@ -2,7 +2,15 @@
 
 ## Description
 
-Learn to use linear regression through exercises.
+This is an exercise using linear regression to evaluate trends in different data sets.
+Data sets include:
+ - Factors influencing used car resale price
+ - Biological data on crickets' response to temperature data.
+ - Biological data on species' body weight to brain weight ratio (riddled with erroneous data! Yay!).
+ - Salary discrepancies between men and women used in a sex discrimination lawsuit.
+
+The analysis uses ipython notebooks and scikit-learn.
+
 
 ## Objectives
 
